@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Big Ghoul
+  m_Controller: {fileID: 9100000, guid: 068fc301e8d9a2f40a644658f478168d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 976e36d6687d00046af388fe14a39517, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 341a08a3d27e64249abc0013c434c530, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ad8e8bc36e6a9a4c958421aeeacd1ba, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 80d6d5f07140f9245a50c9a64f23043b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4af04cdaf5c983749967cb1bd6eab7ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98aba3d63ddef1448a3789f79859e7fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8761eaae75766a54fa217cac4ac0d4ad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8cc1c1ced73bd540a9d9acc1f05d8b4, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481528f96c3928f44a3d2b517b1b739d, type: 3}
+  m_Name: Iron Sword
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 4576583557817312922, guid: 4d5cb997f936d334da7b6be332f6822b, type: 3}
+  attackSound: {fileID: 8300000, guid: 7dd1a34e485a4d24383411074d2bac21, type: 3}
+  attackLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  damage: 5
+  attackForce: 1
+  attackRadius: 0.15
+  attackRate: 0.6
+  attackDelay: 0.3
